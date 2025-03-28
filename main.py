@@ -1,1 +1,1 @@
-print("Olá jek")
+print("Olá")
